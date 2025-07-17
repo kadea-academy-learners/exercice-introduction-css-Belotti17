@@ -1,3 +1,32 @@
 
+header{
 
-
+    text-align: center;
+}
+figure{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    margin-right: 50px;
+}
+h4{
+    text-align: center;
+    margin-top: 50px;
+}
+section{
+    margin: 0 auto;
+    width: 35rem;
+}
+ul{margin-top: 50px;}
+li{margin-top: 20px;}
+blockquote{
+    margin-top: 40px;
+    width: 35rem;
+    margin-left: 19px;
+}
+section p{margin-left: 20px;}
+footer p{text-align: center;}
+figcaption{margin-top: 10px;}
+body{
+    background-color: gainsboro;
+}
